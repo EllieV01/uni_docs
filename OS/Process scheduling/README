@@ -1,0 +1,3 @@
+The program is a simulator of the process scheduler of the operating system. 
+Processes are modeled by the program as some data structures.
+Multi-Level Queue (MLQ) and Multi-Level Feedback Queue (MLFQ).
