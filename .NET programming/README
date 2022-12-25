@@ -1,0 +1,6 @@
+A set of classes has been developed, which is an abstraction over the subject area (biology), using the C# programming language;
+Developed own generalized collection;
+The ability to sort and compare elements has been added to the developed collection;
+Added analogue of logging;
+A set of classes for serialization and deserialization of a custom collection has been developed;
+NUnit test coverage.
