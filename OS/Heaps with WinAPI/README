@@ -1,0 +1,2 @@
+Dynamic allocation of two arrays in different heaps (one in the default heap, the other in an additionally allocated heap). 
+The size of arrays is set from the keyboard.
